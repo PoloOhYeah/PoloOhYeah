@@ -1,16 +1,19 @@
-### Hi there 👋
+### PoloOhYeah, Sarcelles, Fosses : France ;
 
-<!--
-**PoloOhYeah/PoloOhYeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Salut 👋 moi c'est Paul | 16
 
-Here are some ideas to get you started:
+je travaille sur un projet qui s'appelle SearchArea.
+Disponible ICI : https://searcharea.ddns.net/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Dans ce site j'ajoute plusieurs services que je développe.
+
+Je code surtout avec HTML, CSS et JavaScript.
+Et occasionnellement avec Python.
+
+Tu peut me soutenir via PayPal (pas encore disponible).
+
+Ou me retrouver sur Twitter : @PoloOhYeah_
+
+J'utilise pas beaucoup Github donc bon...
+_______________
+F  BO-425-NO 95
