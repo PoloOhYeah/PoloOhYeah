@@ -10,7 +10,7 @@ Dans ce site j'ajoute plusieurs services que je développe.
 Je code surtout avec HTML, CSS et JavaScript.
 Et occasionnellement avec Python.
 
-Tu peut me soutenir via PayPal (pas encore disponible).
+Tu peux me soutenir via PayPal (pas encore disponible).
 Ou soutenir mon projet => https://buy.stripe.com/6oEaFG3IB0Gb6xG001
 
 Ou me retrouver sur Twitter : @PoloOhYeah_
