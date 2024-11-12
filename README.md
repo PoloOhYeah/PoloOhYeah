@@ -1,4 +1,4 @@
-### PoloOhYeah, Sarcelles, Fosses : France ;
+### PoloOhYeah, Sarcelles, Fosses ou Paris : France ;
 
 Salut 👋 moi c'est Paul | 17
 
@@ -9,9 +9,6 @@ Dans ce site j'ajoute plusieurs services que je développe.
 
 Je code surtout avec HTML, CSS et JavaScript.
 Et occasionnellement avec Python.
-
-Tu peux me soutenir via PayPal (pas encore disponible).
-Ou soutenir mon projet => https://buy.stripe.com/6oEaFG3IB0Gb6xG001
 
 Ou me retrouver sur Twitter : @PoloOhYeah_
 
